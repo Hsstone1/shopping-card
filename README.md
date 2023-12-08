@@ -1,3 +1,16 @@
+# Shopping Card Component
+![image](https://github.com/Hsstone1/shopping-card/assets/67842011/2133340c-f688-4fd0-abc5-32108a7eec74)
+This is the shopping card component, with various shirt colors to select, with cooresponding prices, a size and quantity selector, an add to cart button, and a checkout button.
+
+![image](https://github.com/Hsstone1/shopping-card/assets/67842011/e97a3f9e-3d04-4b31-b461-2520854e70d9)
+This showcases the checkout menu, with the cart items added in order, with the ability to remove each item, close the menu, or finish by clicking purchase. The total price for all items can be seen at the bottom.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
